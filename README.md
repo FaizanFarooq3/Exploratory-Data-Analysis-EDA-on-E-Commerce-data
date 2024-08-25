@@ -71,7 +71,7 @@ The **top 5 countries by money spent** are:
 This EDA provides valuable insights into customer behavior, order patterns, and sales trends. These insights can help the company optimize its marketing strategies, stock management, and customer targeting.
 
 ## Notes
-For more details, you can refer to the [Kaggle Notebook](https://www.kaggle.com/admond1994/e-commerce-data-eda).
+For more details, you can refer to the [Notebook]([https://www.kaggle.com/admond1994/e-commerce-data-eda](https://github.com/FaizanFarooq3/Exploratory-Data-Analysis-EDA-on-E-Commerce-data/blob/main/Exploratory_Data_Analysis_(EDA)_on_E_Commerce_data.ipynb)).
 
 ## Acknowledgements
 This data was made available by Dr. Daqing Chen, Director of the Public Analytics Group at the London South Bank University, via the UCI Machine Learning Repository.
